@@ -1,7 +1,26 @@
-.d-flex {
+.d-flex2 {
 display:flex
 }
 
+.d-flex1{
+display:flex
+
+
+}
+
+
 .gap-5 {
 gap:100px
+}
+
+
+.justify-content-center {
+justify-content: center;
+}
+
+.mx-w300 {
+    max-width: 300px;
+}
+.mx-w600 {
+    max-width: 600px;
 }
