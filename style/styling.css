@@ -21,3 +21,14 @@ font-weight: bolder;
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
+.bottom {
+background-color: steelblue;
+margin-top: 100px;
+margin-bottom: 100px;
+margin-left: 400px;
+margin-right: 400px;
+padding: 15px;
+border: 15px;
+border-style: double;
+border-color: darkblue;
+}
