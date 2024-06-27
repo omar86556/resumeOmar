@@ -22,7 +22,7 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .bottom {
-background-color: steelblue;
+background-color: rgb(47, 117, 154);
 margin-top: 100px;
 margin-bottom: 100px;
 margin-left: 400px;
@@ -30,5 +30,18 @@ margin-right: 400px;
 padding: 15px;
 border: 15px;
 border-style: double;
-border-color: darkblue;
+border-color: rgb(1, 41, 143);
+}
+
+.top {
+color:whitesmoke;
+gap: 50px;
+}
+
+body {
+background-color: rgb(33, 33, 33);
+}
+
+.image {
+margin-top: 10px;
 }
